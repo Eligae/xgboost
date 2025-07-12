@@ -39,7 +39,7 @@ Data(이게 제일 찾기 빡세긴함)
 
 
 ```
-pip install xgboost pandas scikit-learn numpy
+pip install xgboost pandas scikit-learn numpy thinker 
 ```
 
 
