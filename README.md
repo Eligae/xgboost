@@ -47,5 +47,10 @@ Server or 수동으로 모델에 입력하여 최적의 시간 계산.
 휴대폰 어플로 하면 99%이상 서버 필요. 모델의 계산값을 휴대폰에 받아와야 하기 때문
 
 
+```
+pip install xgboost pandas scikit-learn numpy
+```
+
+
 
 Git : https://github.com/Eligae/xgboost.git
