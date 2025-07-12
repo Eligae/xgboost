@@ -18,7 +18,7 @@ RNN or LSTM  사용시 좋음 -> 이는 시계열 데이터 필요
 
 Data(이게 제일 찾기 빡세긴함)
 
-OECD(경제협력개발기구) : 청소년(13세~18세)에게 8~10h의 수면시간 권장
+OECD(경제협력개발기구) : 청소년(13세 ~ 18세)에게 8~10h의 수면시간 권장
 2024년 평균 청소년 남 : 6.1h,  여 : 5.6h 수면(평균값만 나와잇음)  [자료](https://data.seoul.go.kr/dataList/10961/S/2/datasetView.do)
 Student Study Performance [Keggle]( https://www.kaggle.com/datasets/nabilajahan/student-study-performance/data
 ) (기준 : CPGA)
