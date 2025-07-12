@@ -5,7 +5,7 @@ from sklearn.preprocessing import OneHotEncoder
 import numpy as np
 
 # 1. 데이터 준비
-df = pd.read_csv("your_data.csv")  # 데이터셋 불러오기
+df = pd.read_csv("Student_Study_data.csv")  # 데이터셋 불러오기
 
 # 2. 전처리
 df = df.drop(columns=["Name", "Date"])
