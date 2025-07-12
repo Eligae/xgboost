@@ -38,10 +38,14 @@ Data(이게 제일 찾기 빡세긴함)
 휴대폰 어플로 하면 99%이상 서버 필요. 모델의 계산값을 휴대폰에 받아와야 하기 때문
 
 
+## 사용 방법
+1. Win + R 키를 누르고, cmd 입력해서 들어가기
+2.
 ```
-pip install xgboost pandas scikit-learn numpy thinker 
+git clone https://github.com/Eligae/xgboost.git
+pip install xgboost pandas scikit-learn numpy thinker
+cd xgboost
+code .
 ```
+순서대로 한 줄씩 cmd에 입력
 
-
-
-Git : https://github.com/Eligae/xgboost.git
